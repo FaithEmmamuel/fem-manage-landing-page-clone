@@ -472,6 +472,10 @@ input:where([type="text"], [type="email"], ) {
   gap: var(--size-600);
 }
 
+.a11Y-slider-container {
+  margin-block: var(--size-700);
+}
+
 .slider > * {
   position: relative;
   flex: 0 0 auto;
